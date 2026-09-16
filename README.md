@@ -40,6 +40,15 @@ A real-time editor where you could see Codex at work live, with its own skill sy
 
 After a data loss, I lost the motivation to continue working on it and stopped.
 
+Egomorph Core : Status : 🔴
+
+Technically, Egomorph Core is still on GitHub, but I no longer maintain it.
+
+Egomorph Core and I have a long history together, starting with my first experiences with Tensorflow, back then still a vanilla Javascript project under the name Egomorph.
+
+However, in its later development it changed completely; transformers and local models were added, and later a filter to filter out offensive words. 
+
+Egomorph has become an agent system. 
 
 ## Contact details
 
