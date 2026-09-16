@@ -24,11 +24,13 @@ PDF2EPUB is a converter that converts your PDF files into EPUB format. After con
 ## Projects that are no longer active
 
 Codex-works : Status : 🔴
+
 Codex-works was a fork of Codex-mobile, Codexui, or even Anyclaw 😅; I can't say for sure, it used three names in one repository.
 
 After noticing massive RAM consumption, I started writing my own benchmarks and tests; I later realized that the upload function was the reason for this.
 
 codex-ide : Status : 🔴
+
 Yes, I experimented a lot with Codex; Codex-ide was one of my favorite projects back then.
 
 A real-time editor where you could see Codex at work live, with its own skill system.
