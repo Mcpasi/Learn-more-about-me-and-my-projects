@@ -45,4 +45,4 @@ After a data loss, I lost the motivation to continue working on it and stopped.
 
 If you have any questions or ideas for new features, please send me a short email.
 
-EMail:<a href="createwithcode.software@yahoo.com">createwithcode.software@yahoo.com</a>
+EMail:<a href="mailto:createwithcode.software@yahoo.com">createwithcode.software@yahoo.com</a>
