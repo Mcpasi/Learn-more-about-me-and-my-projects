@@ -12,13 +12,19 @@ Hello, I'm Mcpasi and my real name is Pascal. I come from a small town in German
     <tr><td>PDF2EPUB</td><td>Still under development❌</td><td>❌</td></tr>
 </table>
 
-#### AGENTCODI
+#### AGENTCODI : Status : 🟢
 AGENTCODI brings your Codex workflow natively to Android, pinning its own Codex app server, which has an integrated Android sandbox, while AGENTCODI tries to inherit as much as possible from the app server.
 
-#### PDF2EPUB 
+#### PDF2EPUB : Status : 🔴
 PDF2EPUB is a converter that converts your PDF files into EPUB format. After conversion, you can easily adjust the EPUB metadata. A feature for checking against Google Books guidelines is also planned, The app will be released by the end of this year at the latest. 
 
 ---
+
+## Projects that are no longer active
+
+Codex-works : Status : 🔴
+
+
 
 ## Contact details
 
