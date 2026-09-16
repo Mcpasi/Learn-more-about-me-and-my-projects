@@ -28,6 +28,12 @@ Codex-works was a fork of Codex-mobile, Codexui, or even Anyclaw 😅; I can't s
 
 After noticing massive RAM consumption, I started writing my own benchmarks and tests; I later realized that the upload function was the reason for this.
 
+codex-ide : Status : 🔴
+Yes, I experimented a lot with Codex; Codex-ide was one of my favorite projects back then.
+
+A real-time editor where you could see Codex at work live, with its own skill system.
+
+After a data loss, I lost the motivation to continue working on it and stopped.
 
 
 ## Contact details
