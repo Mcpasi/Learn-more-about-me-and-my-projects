@@ -1,4 +1,4 @@
-Each of my projects originated because I had a problem I needed to solve; initially it was Codex, how do I get it to run on Android?
+hEach of my projects originated because I had a problem I needed to solve; initially it was Codex, how do I get it to run on Android?
 
 I started using the Codex CLI on Termux, but I had to use Danger-full-access because there was no Android backend. But at some point I wondered, there must be a solution.
 
@@ -11,3 +11,5 @@ Why has no one built an Android sandbox yet?
 It is extremely difficult to build a sandbox that can be enforced on all kernels; the Android system is extremely fragmented. Just because the sandbox runs on device A doesn't mean it will run the same way on device B.
 
 To ensure that device B doesn't silently revert to danger-full-access, I built the sandbox fail-closed. If it cannot be enforced on device B, the corresponding mode will no longer function.
+
+And I've made it my mission to make the sandbox work on almost any device; star ratings play absolutely no role in this, and do not make the sandbox functional. 
