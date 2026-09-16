@@ -15,4 +15,12 @@ Hello, I'm Mcpasi and my real name is Pascal. I come from a small town in German
 AGENTCODI brings your Codex workflow natively to Android, pinning its own Codex app server, which has an integrated Android sandbox, while AGENTCODI tries to inherit as much as possible from the app server.
 
 #### PDF2EPUB 
-PDF2EPUB is a converter that converts your PDF files into EPUB format. After conversion, you can easily adjust the EPUB metadata. A feature for checking against Google Books guidelines is also planned.
+PDF2EPUB is a converter that converts your PDF files into EPUB format. After conversion, you can easily adjust the EPUB metadata. A feature for checking against Google Books guidelines is also planned, The app will be released by the end of this year at the latest. 
+
+---
+
+## Contact details
+
+If you have any questions or ideas for new features, please send me a short email.
+
+EMail:<a href="createwithcode.software@yahoo.com">createwithcode.software@yahoo.com</a>
