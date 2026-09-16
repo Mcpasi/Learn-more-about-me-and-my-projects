@@ -1,1 +1,1 @@
-Each of my projects originated because I had a problem I needed to solve; initially it was Codex – how do I get it to run on Android?
+Each of my projects originated because I had a problem I needed to solve; initially it was Codex, how do I get it to run on Android?
